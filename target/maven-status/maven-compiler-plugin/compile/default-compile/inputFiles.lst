@@ -17,6 +17,7 @@
 /home/chiara/repos/arquiweb-tp1-backend-2/src/main/java/springboot/model/Order.java
 /home/chiara/repos/arquiweb-tp1-backend-2/src/main/java/springboot/controller/MenuController.java
 /home/chiara/repos/arquiweb-tp1-backend-2/src/main/java/springboot/repository/UserRepository.java
+/home/chiara/repos/arquiweb-tp1-backend-2/src/main/java/springboot/model/App.java
 /home/chiara/repos/arquiweb-tp1-backend-2/src/main/java/springboot/model/Menu.java
 /home/chiara/repos/arquiweb-tp1-backend-2/src/main/java/springboot/service/PhotoStorageService.java
 /home/chiara/repos/arquiweb-tp1-backend-2/src/main/java/springboot/controller/OrderController.java
